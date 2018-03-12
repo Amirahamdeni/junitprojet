@@ -31,7 +31,7 @@ System.out.println("avant methode non classb");
      @Test
 public void junitTest()
 {
-System.out.println("2eme essai ");
+System.out.println("2eme essakdfvlkdnfvlkdfnvi ");
 assertEquals(1,1);
 } 
 @Test
