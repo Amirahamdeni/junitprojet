@@ -31,7 +31,7 @@ System.out.println("avant methode non class");
      @Test
 public void junitTest()
 {
-System.out.println("test11111111111111111");
+System.out.println("essayer commit et build directement");
 assertEquals(1,1);
 } 
 @Test
