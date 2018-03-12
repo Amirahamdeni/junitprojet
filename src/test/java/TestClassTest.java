@@ -26,12 +26,12 @@ System.out.println("before une seule fois");
 }
     @Before
 public void beforeTest(){
-System.out.println("avant methode non class");
+System.out.println("avant methode non classb");
 }
      @Test
 public void junitTest()
 {
-System.out.println("2eme essayé ");
+System.out.println("2eme essai ");
 assertEquals(1,1);
 } 
 @Test
